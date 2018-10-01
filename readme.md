@@ -18,6 +18,7 @@ This code you can use as you want!
 It is laid out to help inexperienced programmers,
 To make their lives easier !
 
+New Api Adress:  newapi.asterios.ws  
 
 Https Protocol will reliably protect your users
 ![alt text](https://asterios.ws/post/img_e3982419b7.jpg)
